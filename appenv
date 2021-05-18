@@ -1,0 +1,4 @@
+export FLASK_APP = market
+export FLASK_ENV = development
+flask run --host rndmnkiii.com --port 4000
+
