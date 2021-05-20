@@ -2,3 +2,8 @@ body {
     background-color: #212121;
     color: white;
 }
+
+.green-coin {
+    color: lawngreen;
+    font-weight: bold;
+}
