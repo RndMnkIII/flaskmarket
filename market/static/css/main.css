@@ -7,3 +7,17 @@ body {
     color: lawngreen;
     font-weight: bold;
 }
+
+.market-table-margin {
+    margin-top:20px;
+    margin-left:20px;
+}
+
+.text-align-right {
+    text-align: right;
+}
+
+.modal-content {
+    background-color: #212121
+}
+
